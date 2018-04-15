@@ -1,0 +1,17 @@
+/todo-list/.DS_Store
+/todo-list/node_modules/
+/todo-list/dist/
+/todo-list/npm-debug.log*
+/todo-list/yarn-debug.log*
+/todo-list/yarn-error.log*
+/todo-list/test/unit/coverage/
+/todo-list/test/e2e/reports/
+/todo-list/selenium-debug.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
